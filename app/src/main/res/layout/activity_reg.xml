@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="12dp"
+    tools:context=".RegActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:src="@drawable/insta1" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginTop="15dp"
+        android:hint="UserName"
+        android:padding="10dp"
+        android:id="@+id/username"/>
+    android:src="@drawable/insta1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginTop="15dp"
+        android:hint="Name"
+        android:padding="10dp"
+        android:id="@+id/name"/>
+    android:src="@drawable/insta1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginTop="15dp"
+        android:hint="email"
+        android:padding="10dp"
+        android:id="@+id/email"/>
+    android:src="@drawable/insta1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginTop="15dp"
+        android:hint="Password"
+        android:padding="10dp"
+        android:id="@+id/password"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:layout_marginTop="15dp"
+        android:text="Register"
+        android:padding="10dp"
+        android:id="@+id/regester"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Already  user ? LOG IN"
+        android:layout_marginTop="15dp"
+        android:id="@+id/login_user"/>
+
+
+
+</LinearLayout>

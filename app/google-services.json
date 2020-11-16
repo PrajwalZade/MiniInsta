@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229813611056",
+    "firebase_url": "https://miniinsta-ffd99.firebaseio.com",
+    "project_id": "miniinsta-ffd99",
+    "storage_bucket": "miniinsta-ffd99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229813611056:android:ab62e03bb32311b28adbf5",
+        "android_client_info": {
+          "package_name": "com.prajwal.miniinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229813611056-jl7b9q0nqpfgmp6bdqhsu2u8f2q27rv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgy48uKoyDRQ1HUk_y7nDxoT1mSxeVrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229813611056-jl7b9q0nqpfgmp6bdqhsu2u8f2q27rv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
